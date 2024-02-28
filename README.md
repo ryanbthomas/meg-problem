@@ -13,3 +13,6 @@ There are 27 possible vectors that we can create, so the probability is 7/27.
 ## FFT solutions
 
 Make use of ideas for [Robertson, Computation of Aggregate Loss Distributions](https://www.casact.org/sites/default/files/database/proceed_proceed92_92057.pdf)
+
+[3Blue1Brown Video about Fourier Transforms](https://youtu.be/spUNpyF58BY?si=mgqz5VCzdHDqpTSE)
+
